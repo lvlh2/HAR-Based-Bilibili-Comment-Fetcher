@@ -10,3 +10,10 @@
 - 然后在`fetch_comments.py`开头的`HEADERS`变量中配置Cookie
 - 运行`fetch_comments.py`（确保`fetch_comments.py`和`network.har`位于同一目录下），爬取评论信息
 - 运行完毕后，该目录下会保存`comments.csv`文件
+
+使用到的Python非标准库包括：
+
+- `browsermobproxy`
+- `selenium`
+- `pandas`
+- `requests`
