@@ -1,7 +1,5 @@
 # HAR Based Bilibili Comment Fetcher
 
-视频[逃课式爬虫方法：用HAR文件解析替代JS逆向分析，爬取B站评论](https://www.bilibili.com/video/BV1aoWoeeEBL/)配套代码
-
 使用基于HAR文件提取与解析的方法，获取B站评论接口链接，并爬取评论数据
 
 ## 使用方法
