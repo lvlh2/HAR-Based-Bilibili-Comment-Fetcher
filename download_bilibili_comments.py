@@ -39,7 +39,7 @@ def download_har_file() -> None:
     url = input('Please input the link of the video: ')
     driver.get(url)
 
-    input()
+    input('Press enter to continue...')
 
     temp_height = 0
     while True:
